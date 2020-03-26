@@ -1,0 +1,1 @@
+insert into alian values(101,'navin');
